@@ -3,7 +3,7 @@
 ## <img src="img2ascii.png">
 *A command-line tool for converting images to ASCII art*
 
-*Fork of  Josiah-Legg with cross-platform support (Windows, Linux, macOS, ARM) and enhanced features*
+*Fork of [JosefVesely/img2ascii](https://github.com/JosefVesely/img2ascii)*
   
 [![Made with C](https://img.shields.io/badge/-Made%20with%20C-5C6BC0?logo=C)](https://github.com/Josiah-Legg/img2ascii)
 [![MIT License](https://img.shields.io/badge/MIT_License-09A44D)](https://github.com/Josiah-Legg/img2ascii/blob/main/LICENSE)
