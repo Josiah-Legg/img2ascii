@@ -1,7 +1,7 @@
 <div align="center">
   
 ## <img src="img2ascii.png">
-*A command-line tool for converting images to ASCII art*
+*A command-line tool and app for converting images to ASCII art*
 
 *Fork of [JosefVesely/img2ascii](https://github.com/JosefVesely/img2ascii)*
   
